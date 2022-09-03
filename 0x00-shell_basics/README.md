@@ -1,1 +1,1 @@
-how to make directory un tree
+command that list all the filea and directory
