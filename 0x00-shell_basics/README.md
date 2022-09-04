@@ -1,1 +1,1 @@
-command that list all the filea and directory
+how to write commas and figures
