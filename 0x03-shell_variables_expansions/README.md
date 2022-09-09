@@ -1,3 +1,4 @@
-Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
+Write a script that displays the result of BREATH to the power LOVE
 
-POWER and DIVIDE are environment
+BREATH and LOVE are environment variables
+The script should display the result
